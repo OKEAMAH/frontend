@@ -30,7 +30,7 @@ export default function generate<Pathname extends Route['pathname']>(route: Rout
     opengraph: {
       title: title,
       description: pageOgType !== 'Regular page' ? config.meta.og.description : '',
-      imageUrl: pageOgType !== 'Regular page' ? config.meta.og.imageUrl : '',
+      // imageUrl: pageOgType !== 'Regular page' ? config.meta.og.imageUrl : '',
     },
   };
 }
