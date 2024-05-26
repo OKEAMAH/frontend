@@ -73,7 +73,7 @@
     "framer-motion": "^6.5.1",
     "getit-sdk": "^1.0.4",
     "gradient-avatar": "^1.0.2",
-    "graphiql": "^2.2.0",
+    "graphiql": "^3.2.0",
     "graphql": "^16.8.1",
     "graphql-ws": "^5.11.3",
     "js-cookie": "^3.0.1",
