@@ -52,7 +52,7 @@
     "@opentelemetry/sdk-node": "^0.45.0",
     "@opentelemetry/sdk-trace-node": "^1.18.0",
     "@opentelemetry/semantic-conventions": "^1.18.0",
-    "@sentry/cli": "^2.21.2",
+    "@sentry/cli": "^2.31.2",
     "@sentry/react": "7.24.0",
     "@sentry/tracing": "7.24.0",
     "@slise/embed-react": "^2.2.0",
