@@ -103,8 +103,8 @@
     "react-scroll": "^1.8.7",
     "swagger-ui-react": "^5.9.0",
     "use-font-face-observer": "^1.2.1",
-    "viem": "2.9.6",
-    "wagmi": "2.5.16",
+    "viem": "2.15.1",
+    "wagmi": "2.5.21",
     "xss": "^1.0.14"
   },
   "devDependencies": {
